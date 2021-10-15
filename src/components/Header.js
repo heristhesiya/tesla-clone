@@ -21,6 +21,8 @@ function Header() {
               {car}
             </a>
           ))}
+        {/*<a href='#'>solar roof</a>
+          <a href='#'>solar panels</a>*/}
       </Menu>
       <RightMenu>
         <a href='#'>Shop</a>
