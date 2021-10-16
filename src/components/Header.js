@@ -11,7 +11,7 @@ function Header() {
   // console.log(cars);
   return (
     <Container>
-      <a>
+      <a href='#'>
         <img src='/images/logo.svg' alt='' />
       </a>
       <Menu>
